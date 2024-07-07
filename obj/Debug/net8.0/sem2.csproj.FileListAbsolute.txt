@@ -1,0 +1,15 @@
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\bin\Debug\net8.0\sem2.exe
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\bin\Debug\net8.0\sem2.deps.json
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\bin\Debug\net8.0\sem2.runtimeconfig.json
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\bin\Debug\net8.0\sem2.dll
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\bin\Debug\net8.0\sem2.pdb
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\sem2.AssemblyInfoInputs.cache
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\sem2.AssemblyInfo.cs
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\sem2.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\sem2.sourcelink.json
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\sem2.dll
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\refint\sem2.dll
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\sem2.pdb
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\sem2.genruntimeconfig.cache
+C:\Users\Natalie\Desktop\C sharp\Практика\Семинары\семинар 2\sem2\obj\Debug\net8.0\ref\sem2.dll
